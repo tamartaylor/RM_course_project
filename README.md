@@ -2,17 +2,25 @@
 Research Methods final 
 
 Project Readme Note:
+
 In my project I aim to investigate northern Red Sea corals along the depth gradient when my Research Objectives are:
 
 •	Characterize benthic communities and their distribution along the depth gradient in the GoE/A.
+
 •	To investigate the effect of light and photo-physiology on distribution of target species of hard corals. 
+
 This study’s methods are conducted in two different methods by collecting data in-situ from which I will infer:
-1.	Analyzing photo-quadrats to characterize the benthic distribution and coverage of few functional groups. 
+
+1.	Analyzing photo-quadrats to characterize the benthic distribution and coverage of few functional groups.
+   
 2.	Analyzing photo-physiology activity of 5 hard corals with different depth preference: some depth-generalist and some depth-specific.
 
 Hypothesis:
+
 •	Benthic community's structure and distribution are influenced by depth and light availability.
+
 •	The photo-physiology of corals from different species is depth-specific.   
+
 
 Projects submitted included in final project: 
 
